@@ -6,8 +6,9 @@ I bridge the gap between software and mechanical engineering to create elegant, 
 ---
 
 ## 🛠️ Skills & Expertise
-- **Programming Languages:** Python, Java, JavaScript (React, Node.js), C++, Assembly  
-- **Web Development:** React, Node.js, SCSS, REST APIs  
+- **Programming Languages:** Python, Java, JavaScript, C++, Assembly  
+- **Web Development:** React, Node.js, SCSS, REST APIs
+- **Databases:** MySQL, Express.js, Microsoft Access  
 - **Machine Learning:** TensorFlow, Keras, Data Analysis, Predictive Modeling  
 - **Engineering Systems:** CAD Design (SolidWorks, AutoCAD), Industrial Automation  
 - **Tools & Platforms:** Git, Docker, ArcGIS, Vercel  
