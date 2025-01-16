@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Youssef El Khashab
 
-🚀 **Versatile Software Developer | Engineer | Innovator**  
+🚀 **Software Developer | Mechanical Engineer | Data Scientist**  
 I bridge the gap between software and mechanical engineering to create elegant, efficient, and impactful solutions. With 4+ years of experience as a software developer and a strong foundation in mechanical systems, I specialize in building scalable applications, intelligent systems, and automation tools.
 
 ---
