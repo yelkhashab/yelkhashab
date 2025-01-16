@@ -17,9 +17,17 @@ I bridge the gap between software and mechanical engineering to create elegant, 
 
 ## 🌟 Featured Project
 
-### 🧩 [VisionCubed - 3D Rubik's Cube Solving Tool](https://github.com/yelkhashab/VisionCubed)  
-Developed a 3x3 Rubik's Cube Solving Tool in Python and React that uses computer vision to identify
-a scrambled Rubik's Cube state, vizualize it in 3D and guide you through a solution.
+### [VisionCubed](http://www.visioncubed.xyz/)
+
+**Find the repos here:**
+
+#### 🧩 [VisionCubed - 3D Rubik's Cube Solving Tool](https://github.com/yelkhashab/VisionCubed)  
+3x3 Rubik's Cube Solving Tool frontend in React and Node.js. Vizualize the current scrambled state of
+you Rubik's Cube in 3D and guides you through a solution.
+
+#### 🧩 [VisionCubed API - 3D Rubik's Cube Solving Tool API](https://github.com/yelkhashab/VisionCubed-API)  
+3x3 Rubik's Cube Solving Tool backend in Python Flask that uses computer vision to identify
+a scrambled Rubik's Cube state and generates an optimal solution using the Kociemba library.
 
 ---
 
