@@ -32,7 +32,7 @@ a scrambled Rubik's Cube state and generates an optimal solution using the Kocie
 ---
 
 ## 📫 Let’s Connect!
-- **Portfolio:** [yelkhashab.com](https://yelkhashab.dev)  
+- **Portfolio:** [yelkhashab.dev](https://yelkhashab.dev)  
 - **LinkedIn:** [linkedin.com/in/yelkhashab](https://linkedin.com/in/yelkhashab)  
 - **Email:**     yelkhashab@outlook.com  
 
